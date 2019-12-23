@@ -1,0 +1,7 @@
+a=int(input("ведите число"))
+s=int(input("ведите число"))
+d=int(input("ведите число"))
+f=int(input("ведите число"))
+g=int(input("ведите число"))
+print(max(a, s, d ,f, g))
+print(min(a, s, d ,f, g))
